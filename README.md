@@ -13,6 +13,13 @@ This project is part of my CCNA practice.
 - `R1-show-ip-route.txt` • `R1-traceroute.txt` • `R2-show-ipv6-route.txt` — verification outputs
 - `topology.png` — topology screenshot
 
+## 🔑 Access Info
+For all devices (R1, R2, SW1, SW2):
+- Console password: cisco
+- VTY (telnet/ssh) password: cisco
+- Privileged EXEC (enable) password: class
+
+
 ## 🎯 Objectives
 1. Configure IPv4/IPv6 addressing on routers.
 2. Add static routes to remote networks.
