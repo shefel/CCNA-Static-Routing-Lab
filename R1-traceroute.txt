@@ -1,0 +1,26 @@
+R1#traceroute 10.1.0.1 
+Type escape sequence to abort.
+Tracing the route to 10.1.0.1
+
+  1   10.1.0.1        9 msec    2 msec    3 msec    
+R1#traceroute 10.16.1.1
+Type escape sequence to abort.
+Tracing the route to 10.16.1.1
+
+  1   *     0 msec    0 msec    
+  2   
+R1#traceroute 172.16.1.1
+Type escape sequence to abort.
+Tracing the route to 172.16.1.1
+
+  1   172.16.1.1      7 msec    1 msec    2 msec    
+R1#traceroute 192.168.1.1
+Type escape sequence to abort.
+Tracing the route to 192.168.1.1
+
+  1   192.168.1.1     8 msec    4 msec    2 msec    
+R1#traceroute 209.165.200.225
+Type escape sequence to abort.
+Tracing the route to 209.165.200.225
+
+  1   209.165.200.225 6 msec    0 msec    0 msec 
